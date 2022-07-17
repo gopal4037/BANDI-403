@@ -1,2 +1,2 @@
 this is second java preogram...
-addind second line of code
+addind second line of code in program
